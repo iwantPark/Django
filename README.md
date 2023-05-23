@@ -1,2 +1,1 @@
-# Django
-# Django 튜토리얼
+Django 튜토리얼

@@ -1,1 +1,1 @@
-Django 튜토리얼
+firstapp 폴더 추가
